@@ -1,0 +1,978 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"app",
+				"AppView"
+			],
+			[
+				"todo",
+				"todo-list"
+			],
+			[
+				"da",
+				"data_serialized"
+			],
+			[
+				"obj",
+				"object_list"
+			],
+			[
+				"H",
+				"HttpResponse"
+			],
+			[
+				"get",
+				"GetSessionData"
+			],
+			[
+				"create",
+				"create_movie"
+			],
+			[
+				"mo",
+				"movie"
+			],
+			[
+				"movie",
+				"movies_table"
+			],
+			[
+				"movies",
+				"moviesDiv"
+			],
+			[
+				"mov",
+				"moviesDiv"
+			],
+			[
+				"con",
+				"conversions"
+			],
+			[
+				"end",
+				"end_date"
+			],
+			[
+				"movi",
+				"movie_rating"
+			],
+			[
+				"movie_ra",
+				"movie_ratings"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"dict",
+				"dictfetchall"
+			],
+			[
+				"content",
+				"content_id"
+			],
+			[
+				"session",
+				"sessions_with_conversions"
+			],
+			[
+				"file",
+				"file_name"
+			],
+			[
+				"fea",
+				"features_test"
+			],
+			[
+				"la",
+				"labels_train"
+			],
+			[
+				"featu",
+				"features_train"
+			],
+			[
+				"todays",
+				"todays_sessions"
+			],
+			[
+				"items",
+				"items_sold"
+			],
+			[
+				"bo",
+				"text-bottom"
+			],
+			[
+				"al",
+				"vertical-align"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"max",
+				"column_max"
+			],
+			[
+				"event",
+				"eventData"
+			],
+			[
+				"sess",
+				"sessions_with_conversions"
+			],
+			[
+				"ran",
+				"randint"
+			],
+			[
+				"rando",
+				"randomuserid"
+			],
+			[
+				"rand",
+				"randint"
+			],
+			[
+				"se",
+				"session"
+			],
+			[
+				"date",
+				"datetime"
+			],
+			[
+				"select",
+				"selectAll"
+			],
+			[
+				"even",
+				"eventData"
+			],
+			[
+				"http",
+				"HttpResponse"
+			],
+			[
+				"gen",
+				"genre_name"
+			],
+			[
+				"fi",
+				"films_in_genre"
+			],
+			[
+				"Mo",
+				"Movies"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"Log",
+				"LogSerializer"
+			],
+			[
+				"Grou",
+				"GroupSerializer"
+			],
+			[
+				"ser",
+				"serializer_class"
+			],
+			[
+				"cou",
+				"count"
+			],
+			[
+				"p",
+				"phrase"
+			],
+			[
+				"new",
+				"new_current_words"
+			],
+			[
+				"words",
+				"words"
+			],
+			[
+				"all",
+				"allowed_letters"
+			],
+			[
+				"wor",
+				"word"
+			],
+			[
+				"word",
+				"word"
+			],
+			[
+				"wo",
+				"words_in_solution"
+			],
+			[
+				"letter",
+				"letter"
+			],
+			[
+				"lete",
+				"letters_left"
+			],
+			[
+				"lett",
+				"letters_left"
+			],
+			[
+				"le",
+				"letter_stack_for_word"
+			],
+			[
+				"Se",
+				"SECRET_KEY"
+			],
+			[
+				"Htp",
+				"http"
+			],
+			[
+				"pa",
+				"password_candidate_hash"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"Re",
+				"required"
+			],
+			[
+				"i",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"Http",
+				"HttpResponse"
+			],
+			[
+				"print",
+				"print_words"
+			],
+			[
+				"story",
+				"story_words"
+			],
+			[
+				"url",
+				"urlopen"
+			],
+			[
+				"Det",
+				"DetailTitleRow"
+			],
+			[
+				"clust",
+				"clusters"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "manage.py",
+			"settings":
+			{
+				"buffer_size": 246,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "movie/views.py",
+			"settings":
+			{
+				"buffer_size": 2412,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "movie/templates/master.html",
+			"settings":
+			{
+				"buffer_size": 1282,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/private/git/PRS/Chapter_3/MovieGeek/movie/templates/index.html",
+			"settings":
+			{
+				"buffer_size": 1965,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/private/git/PRS/Chapter_3/MovieGeek/movie/templates/base.html",
+			"settings":
+			{
+				"buffer_size": 4014,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "movie/templates/index.html",
+			"settings":
+			{
+				"buffer_size": 1483,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "movie/templates/details.html",
+			"settings":
+			{
+				"buffer_size": 1149,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "movie/urls.py",
+			"settings":
+			{
+				"buffer_size": 285,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/private/git/PRS/Chapter_3/MovieGeek/movie/views.py",
+		"/C/private/git/PRS/Chapter_3/MovieGeek/movie/templates/details.html",
+		"/C/private/github/prs/appendix1/prs/prs/urls.py",
+		"/C/private/github/prs/appendix1/prs/movie/models.py",
+		"/C/private/github/prs/appendix1/prs/movie/templates/index.html",
+		"/C/private/git/PRS/Chapter_1/MovieGeek/movie/templates/base.html",
+		"/C/private/git/PRS/Chapter_1/MovieGeek/movie/models.py",
+		"/C/private/github/prs/appendix1/prs/prs/settings.py",
+		"/C/private/github/prs/appendix1/prs/movie/templates/details.html",
+		"/C/private/github/prs/appendix1/prs/movie/views.py",
+		"/C/private/github/prs/appendix1/prs/movie/urls.py",
+		"/C/private/git/PRS/Chapter_1/MovieGeek/movie/urls.py",
+		"/C/private/git/PRS/Chapter_1/MovieGeek/MovieGeek/settings.py",
+		"/C/private/git/PRS/Chapter_1/MovieGeek/MovieGeek/urls.py",
+		"/C/private/git/PRS/Chapter_1/MovieGeek/movie/views.py",
+		"/C/inetpub/wwwroot/SibillaTester/Data/logs/log.20150721.112329.txt",
+		"/C/private/github/prs/appendix1/prs/prs/models.py",
+		"/C/private/github/prs/appendix1/prs/movie/templates/base.html",
+		"/C/inetpub/wwwroot/SibillaTester/Data/logs/log.20150721.txt",
+		"/C/inetpub/wwwroot/SibillaTester/Data/logs/log.20150716.104644.txt",
+		"/C/inetpub/wwwroot/SibillaTester/Website/App_Config/Include/ContentTesting/Sitecore.ContentTesting.Lucene.IndexConfiguration.config",
+		"/C/inetpub/wwwroot/SibillaTester/Website/App_Config/Include/ContentTesting/Sitecore.ContentTesting.Intelligence.config",
+		"/C/source/sibilla/code/Testing/Sitecore.MachineLearning.Azure.Tests/bin/Debug/Sitecore.MachineLearning.Azure.Tests.dll.config",
+		"/C/inetpub/wwwroot/SibillaTester/Data/logs/log.20150717.221338.txt",
+		"/C/private/project/backbonetutorial/backbone-tutorial.html",
+		"/C/private/project/randomforesttest/randomforesttest.py",
+		"/C/private/project/Kaggle-tutorial/randomforest.py",
+		"/C/inetpub/wwwroot/SibillaTester/Data/logs/log.20150715.114750.txt",
+		"/C/inetpub/wwwroot/SibillaTester/Data/logs/log.20150715.153756.txt",
+		"/C/inetpub/wwwroot/SibillaTester/Data/logs/log.20150715.111825.txt",
+		"/C/Users/KFJ/AppData/Local/Microsoft/Windows/INetCache/IE/M09GPUNW/Sibilla clustering take 1 - 506153734175476c4f62416c57734963.faa6ba63383c4086ba587abf26b85814.v1-default-1480 - Results dataset.csv",
+		"/C/Users/KFJ/Downloads/Sibilla clustering take 1 - 506153734175476c4f62416c57734963.faa6ba63383c4086ba587abf26b85814.v1-default-1480 - Results dataset.csv",
+		"/C/inetpub/wwwroot/SibillaTester/Data/logs/log.20150715.161515.txt",
+		"/C/inetpub/wwwroot/SibillaTester/Data/logs/log.20150710.212720.txt",
+		"/C/inetpub/wwwroot/SibillaTester/Data/logs/log.20150706.193302.txt",
+		"/C/inetpub/wwwroot/SibillaTester/Website/App_Config/Include/zMachineLearningAzure.config",
+		"/C/inetpub/wwwroot/SibillaTester/Data/logs/log.20150710.191803.txt",
+		"/C/inetpub/wwwroot/SibillaTester/Data/logs/log.20150706.203825.txt",
+		"/C/source/sibilla/code/installmachinelearning.py",
+		"/C/inetpub/wwwroot/SibillaTester/Website/App_Config/Include/zMachineLearning.config",
+		"/C/inetpub/wwwroot/SibillaTester/Data/logs/log.20150706.txt",
+		"/C/inetpub/wwwroot/SibillaTester/Data/logs/log.20150706.133304.txt",
+		"/C/inetpub/wwwroot/SibillaTester/Data/logs/log.20150710.191434.txt",
+		"/C/inetpub/wwwroot/SibillaTester/Data/logs/Crawling.log.20150706.txt",
+		"/C/inetpub/wwwroot/SibillaTester/Data/logs/log.20150705.txt",
+		"/C/private/git/PRS/Chapter_3/MovieGeek/movie/models.py",
+		"/C/Users/KFJ/Desktop/movieTest.html",
+		"/C/private/git/PRS/Chapter_3/MovieGeek/analyze/views.py",
+		"/C/private/git/PRS/Chapter_3/MovieGeek/analyze/models.py",
+		"/C/private/git/PRS/Chapter_3/MovieGeek/evidenceCollector/views.py",
+		"/C/Program Files/PostgreSQL/9.4/data/pg_log/postgresql-2015-07-04_123614.log",
+		"/C/Program Files/PostgreSQL/9.4/data/pg_log/postgresql-2015-07-04_123323.log",
+		"/C/Program Files/PostgreSQL/9.4/data/pg_hba.conf",
+		"/C/Program Files/PostgreSQL/9.4/data/pg_log/postgresql-2015-07-04_123525.log",
+		"/C/private/git/PRS/Chapter_3/MovieGeek/MovieGeek/urls.py",
+		"/C/private/git/PRS/Chapter_3/MovieGeek/movie/templates/index.html",
+		"/C/private/git/PRS/data/user_ratedmovies-timestamps.dat",
+		"/C/private/git/PRS/Chapter_3/MovieGeek/MovieGeek/settings.py",
+		"/C/private/github/prs/appendix1/prs/models.py",
+		"/C/Users/KFJ/Desktop/Ch05-BikeBuyer.csv",
+		"/C/Users/KFJ/Desktop/New Text Document.txt",
+		"/C/inetpub/wwwroot/SibillaTester/Data/logs/log.20150702.211530.txt",
+		"/C/Python34/Scripts/django-admin.py",
+		"/C/private/github/prs/appendix1/.gitignore",
+		"/C/inetpub/wwwroot/SibillaTester/Website/App_Config/Include/Sitecore.Analytics.Tracking.config",
+		"/C/Users/KFJ/Dropbox/docs/book/Writing/Chapter 1 - Introduction/Notes for chapter 1.txt",
+		"/C/inetpub/wwwroot/SibillaTester/Data/logs/log.20150701.150751.txt",
+		"/C/temp/ColossusError.htm",
+		"/C/inetpub/wwwroot/SibillaTester/Website/App_Config/Include/ExperienceGenerator/ExperienceGenerator.config",
+		"/C/inetpub/wwwroot/SibillaTester/Data/logs/log.20150701.154025.txt",
+		"/C/inetpub/wwwroot/SibillaTester/Data/logs/log.20150701.155636.txt",
+		"/C/Git/Colossus/Colossus.Console/Program.cs",
+		"/C/inetpub/wwwroot/SibillaTester/Data/logs/log.20150702.120024.txt",
+		"/C/inetpub/wwwroot/SibillaTester/Data/logs/log.20150702.122135.txt",
+		"/C/inetpub/wwwroot/SibillaTester/Data/logs/log.20150702.133629.txt",
+		"/C/inetpub/wwwroot/SibillaTester/Data/logs/log.20150702.134506.txt",
+		"/C/inetpub/wwwroot/SibillaTester/Data/logs/log.20150702.134853.txt",
+		"/C/inetpub/wwwroot/SibillaTester/Data/logs/log.20150702.140839.txt",
+		"/C/inetpub/wwwroot/SibillaTester/Website/App_Config/Include/Sitecore.Analytics.Tracking.RobotDetection.config",
+		"/C/inetpub/wwwroot/SibillaTester/Data/logs/log.20150701.144129.txt",
+		"/C/inetpub/wwwroot/SibillaTester/Data/logs/log.20150701.145214.txt",
+		"/C/private/git/PRS/Chapter_3/MovieGeek/evidenceCollector/urls.py",
+		"/C/private/git/PRS/Chapter_3/MovieGeek/evidenceCollector/models.py",
+		"/C/private/git/PRS/Chapter_3/MovieGeek/movie/index.html",
+		"/C/private/git/PRS/Chapter_3/MovieGeek/movie/templates/base.html",
+		"/C/private/git/PRS/Chapter_3/MovieGeek/movie/static/css/styles.css",
+		"/C/private/git/PRS/Chapter_3/MovieGeek/movie/templates/styles.css",
+		"/C/private/git/PRS/data/user_ratedmovies.dat",
+		"/C/inetpub/wwwroot/SibillaTester/Data/logs/log.20150630.txt",
+		"/C/Users/KFJ/AppData/Local/Temp/Temp1_package.zip/files/bin/Sitecore.MachineLearning.Api.dll.config",
+		"/C/private/git/PRS/Chapter_2/MovieGeek/movie/models.py",
+		"/C/private/git/PRS/Chapter_3/MovieGeek/movie/urls.py",
+		"/C/private/git/PRS/Chapter_3/MovieGeek/models.py",
+		"/C/Users/KFJ/Dropbox/docs/qed/visualizations/asylansogers.html",
+		"/C/Users/KFJ/AppData/Local/Microsoft/Windows/INetCache/IE/YDY6KRN9/Sibilla clustering take 1 - 506153734175476c4f62416c57734963.faa6ba63383c4086ba587abf26b85814.v1-default-1480 - Results dataset.csv",
+		"/C/private/git/PRS/Chapter_2/MovieGeek/movie/templates/index.html",
+		"/C/private/git/PRS/Chapter_2/MovieGeek/movie/templates/base.html",
+		"/C/private/git/PRS/Chapter_3/MovieGeek/movie/tests.py",
+		"/C/private/git/PRS/Chapter_2/MovieGeek/movie/templates/details.html",
+		"/C/private/git/PRS/Chapter_3/data_generator/generator.py",
+		"/C/private/git/PRS/Chapter_3/MovieGeek/analyze/urls.py",
+		"/C/inetpub/wwwroot/SitecoreFlow/Website/App_Config/Sitecore.config",
+		"/C/inetpub/wwwroot/SibillaTester/Website/Web.config",
+		"/C/inetpub/wwwroot/SitecoreFlow/Website/Web.config",
+		"/C/Users/KFJ/Downloads/WhiteWineEAD-KimFalkJorgensen.html",
+		"/C/inetpub/wwwroot/SibillaTester/Data/logs/log.20150610.141113.txt",
+		"/C/inetpub/wwwroot/SibillaTester/Data/logs/log.20150610.124832.txt",
+		"/C/inetpub/wwwroot/SibillaTester/Data/logs/log.20150602.170527.txt",
+		"/C/Users/KFJ/AppData/Local/Temp/Temp1_basic_charts_final.zip/basic_charts_final.html",
+		"/C/Git/sitecore-xerox/README.md",
+		"/C/Git/sitecore-xerox/src/Components/Readme.txt",
+		"/C/Git/Colossus/Colossus.Integration/Colossus.Integration.csproj",
+		"/C/Git/Colossus/Colossus/Colossus.csproj",
+		"/C/Git/Colossus/Colossus.Console/Colossus.Console.csproj",
+		"/C/Git/sitecore-xerox/src/ExperienceGenerator.Client/ExperienceGenerator.Client.csproj",
+		"/C/private/git/PRS/Chapter_3/MovieGeek/analyze/templates/dashboard.html",
+		"/C/inetpub/wwwroot/SibillaTester/Data/logs/log.20150609.134243.txt",
+		"/C/inetpub/wwwroot/SibillaTester/Data/logs/log.20150610.121129.txt",
+		"/C/inetpub/wwwroot/SibillaTester/Data/logs/log.20150610.121305.txt",
+		"/C/inetpub/wwwroot/SibillaTester/Data/logs/log.20150610.121609.txt",
+		"/C/Git/sitecore-xerox/src/ExperienceGenerator.Client/packages.config",
+		"/C/Git/Colossus/Colossus/Geo/City.cs",
+		"/C/inetpub/wwwroot/SibillaTester/Data/logs/log.20150602.154731.txt",
+		"/C/inetpub/wwwroot/SibillaTester/Data/logs/log.20150602.154357.txt",
+		"/C/inetpub/wwwroot/SibillaTester/Data/logs/log.20150602.152302.txt",
+		"/C/inetpub/wwwroot/SibillaTester/Data/logs/log.20150602.131829.txt",
+		"/C/inetpub/wwwroot/SibillaTester/Data/logs/log.20150602.124900.txt",
+		"/C/inetpub/wwwroot/SibillaTester/Data/logs/log.20150602.131208.txt"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\inetpub\\wwwroot\\SitecoreFlow",
+			"C:\\private\\project\\tutorials\\djangoRest\\tutorial",
+			"C:\\source\\sibilla\\buildscript",
+			"C:\\Git\\Analytics",
+			"C:\\Project_Skynet\\psbuild",
+			"C:\\Project_Skynet\\build\\Website\\data\\logs",
+			"C:\\Project_Skynet"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"new-todo",
+			"MachineLearning",
+			"PageNotAnInteger",
+			"movies",
+			"machinelearning",
+			"movie",
+			"}\n",
+			"settings",
+			"license",
+			"datafolder",
+			"license",
+			"/data",
+			"license",
+			"machinelearning",
+			"calling",
+			"cluster",
+			"calling",
+			"GetTestingClustersFromAzurePipeline",
+			"machinelearning",
+			"Loading algorithm",
+			"column_max",
+			"machinelearning",
+			"130",
+			"addCategoryAxis",
+			"'",
+			"machine",
+			"Data",
+			"machine",
+			"error",
+			"mychart",
+			"mydiagram",
+			"kbi",
+			"<kbi>\n  <p>items sold today</p>\n  <result id=\"items_sold\">0</result>\n</kbi>\n",
+			"number_of_visitors",
+			"items_sold",
+			"endpoint",
+			"	url(r'^api/event_count', views.event_count, name='event_count'),\n",
+			"max",
+			"10",
+			"GetSessionIdAndVisitCount",
+			"/'",
+			"\n  ",
+			"      \n",
+			"?sessionId={{sessionId}}",
+			"datetime",
+			"height",
+			"event_count",
+			"d.month",
+			"'),\n",
+			"/build",
+			"build",
+			"temp",
+			"print ",
+			"href",
+			"contacts",
+			"latest_movies_list",
+			"Movies",
+			";\n",
+			"css",
+			"django",
+			"Denmar",
+			"denmar",
+			">\n",
+			"collector",
+			"UserViewSet",
+			"-",
+			"0671461494",
+			"analytics",
+			"compile",
+			"output.ads",
+			"packages",
+			"data\\Packages",
+			"nervabuild",
+			"license",
+			"unittests",
+			"testsAssembly",
+			"Sitecore.MachineLearning.Tests",
+			"Microsoft.Owin",
+			"tg.environment.include",
+			"testsResult.file.html.Aggregator",
+			"package.project",
+			"Sitecore.ExperienceAnalytics.package",
+			"\\data\\packages",
+			"Sitecore.ExperienceAnalytics.package",
+			"6.5",
+			"buildscript/",
+			"",
+			"print",
+			"find_words(list(), [\"trustpilot\", \"wants\", \"you\"], letters)\n",
+			"Failed to send email ",
+			"schedule",
+			"mail",
+			"		'",
+			"confidence",
+			"reporting",
+			"dataprovider",
+			";",
+			"80",
+			"windows insta",
+			"timeout",
+			"points",
+			"1",
+			"editUtil",
+			"detect",
+			"bot",
+			"contentTestingFactory",
+			"pageviews",
+			"PageViews",
+			"MvTestingDe",
+			"<processor type=\"Sitecore.ContentTesting.Analytics.Aggregation.Pipeline.MvTestingProcessor, Sitecore.ContentTesting\" />",
+			"Sitecore_",
+			"(server)",
+			"user id=user;password=password",
+			"data",
+			"127.0.0.1	skynet.",
+			"local",
+			"Intelligence",
+			"Sitecore.Intelligence.dll",
+			"/bin/Sitecore.Intelligence.dll",
+			"nuget",
+			"robot",
+			"excep",
+			"Add_PageViews",
+			"error",
+			"pipelines",
+			"test",
+			"testDura",
+			"algori"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\\'",
+			"chart",
+			"kpi",
+			"GetSessionData",
+			"d.event",
+			"movies",
+			"_",
+			"-",
+			",",
+			"",
+			"-1",
+			"Build_",
+			".",
+			"user id=sa;password=sc"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "manage.py",
+					"settings":
+					{
+						"buffer_size": 246,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								139,
+								139
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "movie/views.py",
+					"settings":
+					{
+						"buffer_size": 2412,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								570,
+								570
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 242.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "movie/templates/master.html",
+					"settings":
+					{
+						"buffer_size": 1282,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								932,
+								928
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/private/git/PRS/Chapter_3/MovieGeek/movie/templates/index.html",
+					"settings":
+					{
+						"buffer_size": 1965,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1326,
+								1326
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 436.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/private/git/PRS/Chapter_3/MovieGeek/movie/templates/base.html",
+					"settings":
+					{
+						"buffer_size": 4014,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3716,
+								3716
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2046.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "movie/templates/index.html",
+					"settings":
+					{
+						"buffer_size": 1483,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								129,
+								129
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "movie/templates/details.html",
+					"settings":
+					{
+						"buffer_size": 1149,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1148,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "movie/urls.py",
+					"settings":
+					{
+						"buffer_size": 285,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								284,
+								284
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 216.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 163.0,
+	"status_bar_visible": true
+}

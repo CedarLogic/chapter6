@@ -1,0 +1,130 @@
+<html>
+<head>
+ <script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
+    
+  <script>
+  $(document).ready(function() {
+
+
+  
+var json = {
+            nodes: [
+                    { "name": 'Beverage' },
+                    { "name": 'nonAlcoholic' },
+                    { "name": 'sparkling' },
+                    { "name": 'alcoholic' },
+                    { "name": 'hot' },
+                    { "name": 'caffeinic' },
+                    { "name": 'MineralWater' },
+                    { "name": 'madeFromGrain' },
+                    { "name": 'madeFromGrapes' },
+                    { "name": 'HerbTea' },
+                    { "name": 'Coffee' },
+                    { "name": 'Cola' },
+                    { "name": 'Beer' },
+                    { "name": 'Wine' },
+                    { "name": 'Champagne' },
+                    { "name": '' }
+                   ],
+            links: [
+                    { "source": 0, "target": 1},
+                    { "source": 0, "target": 2},
+                    { "source": 0, "target": 3},
+                    { "source": 1, "target": 4},
+                    { "source": 1, "target": 5},
+                    { "source": 1, "target": 6},
+                    { "source": 2, "target": 6},
+                    { "source": 2, "target": 7},
+                    { "source": 2, "target": 14},
+                    { "source": 3, "target": 7},
+                    { "source": 3, "target": 8},
+                    { "source": 4, "target": 9},
+                    { "source": 4, "target": 10},
+                    { "source": 5, "target": 10},
+                    { "source": 5, "target": 11},
+                    { "source": 6, "target": 11},
+                    { "source": 7, "target": 12},
+                    { "source": 8, "target": 13},
+                    { "source": 8, "target": 13},
+                    { "source": 13, "target": 14},
+                    { "source": 10, "target": 15},
+                    { "source": 11, "target": 15},
+                    { "source": 12, "target": 15},
+                    { "source": 14, "target": 15},
+                   ]
+        };
+  
+        var width = 800, height = 600, n = 10000;
+  
+        var svg = d3.select('#vis').append('svg').attr('width', width).attr('height', height);
+
+        var force = cola.d3adaptor()
+                        .linkDistance(80)
+                        .size([width, height])
+                        .nodes(json.nodes)
+                        .links(json.links)
+                        .flowLayout("y", 25)
+                        .on("tick", tick)
+                        .start();
+  
+        var node = svg.selectAll("circle.node")
+                       .data(json.nodes)
+                     .enter().append("circle")
+                       .attr("class", "node")
+                       .attr("r", 5);
+
+        var text = svg.selectAll("text.label")
+                       .data(json.nodes)
+                     .enter().append("text")
+                       .attr("class", "label")
+                       .text(function(d) { return d.name; });
+
+        var link = svg.selectAll("line.link")
+                       .data(json.links)
+                     .enter().append("line")
+                       .attr("class", "link");
+
+        function tick() {
+            link.attr("x1", function(d) { return d.source.x; })
+                .attr("y1", function(d) { return d.source.y; })
+                .attr("x2", function(d) { return d.target.x; })
+                .attr("y2", function(d) { return d.target.y; });
+
+            node.attr("cx", function(d) { return d.x; })
+                .attr("cy", function(d) { return d.y; });
+
+            text.attr("x", function(d) { return d.x + 8; })
+                .attr("y", function(d) { return d.y; });
+        }
+
+        function hover(d) {
+            switch(d3.event.type) {
+                case "mouseover": var tip = svg.append("g")
+                                               .attr("class", "tip")
+                                               .attr("transform", "translate(" + d3.event.x + "," + d3.event.y + ")");
+                                  var rect = tip.append("rect")
+                                                .attr("fill", "white");
+                                  var text = tip.append("text")
+                                                .text(d.name);
+                                  var bounds = text.node().getBBox();
+                                  rect.attr("x", bounds.x)
+                                      .attr("y", bounds.y)
+                                      .attr("width", bounds.width)
+                                      .attr("height", bounds.height);
+                                  
+                                  break;
+                case "mouseout":  svg.selectAll("g.tip")
+                                      .remove();
+                                  break;
+                default: break;
+            }
+        }
+});
+</script>
+</head>
+<body>
+<div id="vis"></div>
+<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script src="http://marvl.infotech.monash.edu/webcola/cola.v3.min.js"></script>
+</body>
+</html>
